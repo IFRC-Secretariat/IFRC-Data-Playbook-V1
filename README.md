@@ -25,7 +25,14 @@ The Data Playbook is the product/toolkit, but the methodology is core to ownersh
 **Skillshares** – By creating content and spaces, the team used a ‘sharing’ and  ‘learn by doing’ approach  to support exposure to innovation methods, data/digital literacy skills, open methodologies, facilitation, peer training, and documentation skills.  
 
 **Transformation and innovation**  – Both activities show distributed networks can apply open methods to innovate and transform supporting the digital agenda. Participation activities also show a digital divide in our network. If organizations want to transform how they work together as a network, they need to continue to find and support new ways to connect and create. 
+
+# Credit
+The Data Playbook beta and V1 contributors and pilot participants, editors, module editors, supporters, partners and National Societies, [IFRC](https://www.ifrc.org/), and [Fabiders](https://www.fabriders.net/). See the Credit section for a full list of contributions and thanks. The Data Playbook V1 was supported by the [American Red Cross Society](https://www.redcross.org/), [Netherlands Red Cross Society - 510 initiative](510.global/), [IFRC Solferino Academy](https://solferinoacademy.com/), and [Fabiders](https://www.fabriders.net/).
  
 # Contact and Contributions
 
 This repository is maintained by the co-editors (Heather Leson, Dirk Slater, and Melissa el Hamouch.) The organizational product owner is the [IFRC Digital Transformation department](https://preparecenter.org/site/digital-transformation/) with support from the [IFRC Solferino Academy](https://solferinoacademy.com/), and [Fabiders](https://www.fabriders.net/). The Playbook has been used by many individuals and organizations outside the IFRC network. The team recommends users reuse, remix, and share feedback. For inquiries and feedback please contact: data.literacy@ifrc.org
+
+# License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/).
